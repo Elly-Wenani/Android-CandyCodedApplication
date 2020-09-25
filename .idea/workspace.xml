@@ -12,6 +12,7 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,10 +188,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit._4_ShareACandyWithAnIntent" />
-        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
       </list>
     </recent_temporary>
   </component>
@@ -216,22 +217,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1600993605428" />
-    <state width="1323" height="229" key="GridCell.Tab.0.bottom" timestamp="1600995787837">
+    <state width="1323" height="229" key="GridCell.Tab.0.bottom" timestamp="1600996839844">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600995787837" />
-    <state width="1323" height="229" key="GridCell.Tab.0.center" timestamp="1600995787837">
+    <state width="1323" height="229" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600996839844" />
+    <state width="1323" height="229" key="GridCell.Tab.0.center" timestamp="1600996839844">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600995787837" />
-    <state width="1323" height="229" key="GridCell.Tab.0.left" timestamp="1600995787837">
+    <state width="1323" height="229" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600996839844" />
+    <state width="1323" height="229" key="GridCell.Tab.0.left" timestamp="1600996839844">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600995787837" />
-    <state width="1323" height="229" key="GridCell.Tab.0.right" timestamp="1600995787837">
+    <state width="1323" height="229" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600996839844" />
+    <state width="1323" height="229" key="GridCell.Tab.0.right" timestamp="1600996839844">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="229" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600995787837" />
+    <state width="1323" height="229" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600996839844" />
     <state x="100" y="100" width="1166" height="538" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600992686813">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
